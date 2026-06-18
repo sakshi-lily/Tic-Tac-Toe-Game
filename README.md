@@ -6,11 +6,11 @@ A simple and interactive Tic-Tac-Toe game built using modern web technologies. P
 
 ## 📌 Features
 
-- ✅ Two-player gameplay (X and O)
-- ✅ Winner detection
-- ✅ Draw detection
-- ✅ Restart game functionality
-- ✅ Responsive design for desktop and mobile
-- ✅ Clean and user-friendly interface
+-  Two-player gameplay (X and O)
+-  Winner detection
+-  Draw detection
+-  Restart game functionality
+-  Responsive design for desktop and mobile
+-  Clean and user-friendly interface
 
 ---
