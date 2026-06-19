@@ -24,3 +24,9 @@ https://your-demo-link.com
 ```
 
 ---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
