@@ -41,3 +41,5 @@ tic-tac-toe/
 ├── script.js
 └── README.md
 ```
+
+## 🎯 How to Play
