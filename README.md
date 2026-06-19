@@ -43,3 +43,4 @@ tic-tac-toe/
 ```
 
 ## 🎯 How to Play
+1. Player X starts the game.
