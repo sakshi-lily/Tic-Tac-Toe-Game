@@ -45,3 +45,4 @@ tic-tac-toe/
 ## 🎯 How to Play
 1. Player X starts the game.
 2. Players take turns marking empty cells.
+3. The first player to align three marks horizontally, vertically, or diagonally wins.
