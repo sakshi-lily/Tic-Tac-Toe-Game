@@ -30,3 +30,14 @@ https://your-demo-link.com
 - HTML5
 - CSS3
 - JavaScript (ES6)
+
+## 📂 Project Structure
+
+```
+tic-tac-toe/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
